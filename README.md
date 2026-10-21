@@ -83,9 +83,12 @@
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ankitatan/Ankitatan/output/github-contribution-grid-snake.svg" alt="Contribution snake animation"/>
+  <img
+    src="https://raw.githubusercontent.com/Ankitatan/Ankitatan/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
