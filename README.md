@@ -82,28 +82,9 @@
 
 ## 🐍 Contribution Activity
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=700&lines=Data+Science+%7C+AI%2FML;Python+%7C+SQL+%7C+Power+BI;Generative+AI+%7C+Machine+Learning" alt="Animated skills"/>
-</p>
-
-
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=120&section=footer&animation=fadeIn" width="100%" alt="Animated wave footer"/>
-
-
-
-
-
-
 <p align="center">
   <img src="https://ghchart.rshah.org/2575FC/Ankitatan" alt="Ankita's GitHub contribution graph" width="100%"/>
 </p>
-
-
-
 
 ## 🌐 Connect With Me
 
