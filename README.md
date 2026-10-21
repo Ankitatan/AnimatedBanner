@@ -106,11 +106,6 @@
   </a>
   <a href="https://github.com/Ankitatan">
 
-<p>
-  <a href="https://www.linkedin.com/in/ankita-t-390613396/">LinkedIn</a> |
-  <a href="https://github.com/Ankitatan">GitHub</a>
-</p>
-
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
 </p>
