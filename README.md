@@ -1,13 +1,4 @@
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Ankita%20Taneja&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20%7C%20AI%2FML%20%7C%20GenAI&descAlignY=75"
-    width="100%"
-    alt="Ankita Taneja - Data Science and AI/ML"
-  />
-</p>
-
-
 
 
 <!-- Animated Header -->
