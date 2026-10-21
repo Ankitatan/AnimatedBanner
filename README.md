@@ -48,6 +48,36 @@
 
 ---
 
+<h2 align="center">🚀 Explore My Portfolio</h2>
+
+<p align="center">
+  <a href="https://ankitatan.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-6A11CB?style=for-the-badge&logo=github&logoColor=white" alt="Visit My Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Data Science | AI/ML | Data Analytics | Generative AI</b>
+</p>
+
+<h2>📊 Featured Projects</h2>
+
+- 🏠 <b>Airbnb Dynamic Pricing Engine</b> — Python, Machine Learning, Tableau  
+  <a href="https://github.com/Ankitatan/ElevateLabsDAproject_AIR_BNB">View Project</a>
+
+- ✈️ <b>SkyPredict AI</b> — Flight Price Prediction and Passenger Satisfaction  
+  <a href="https://github.com/Ankitatan">Explore My Repositories</a>
+
+- 💼 <b>Data Science Portfolio</b> — Projects, dashboards, and analytics  
+  <a href="https://ankitatan.github.io/Portfolio/">Open Portfolio Website</a>
+
+<h2>🔗 Connect With Me</h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/ankita-t-390613396/">LinkedIn</a> |
+  <a href="https://github.com/Ankitatan">GitHub</a>
+</p>
+
 ## 📌 Featured Projects
 
 ### ✈️ Airbnb Dynamic Pricing Recommendation Engine
