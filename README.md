@@ -82,14 +82,10 @@
 
 ## 🐍 Contribution Activity
 
+
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Ankitatan/Ankitatan/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=700&lines=Data+Science+%7C+AI%2FML;Python+%7C+SQL+%7C+Power+BI;Generative+AI+%7C+Machine+Learning" alt="Animated skills"/>
 </p>
----
 
 ## 🌐 Connect With Me
 
