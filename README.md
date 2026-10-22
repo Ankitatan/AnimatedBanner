@@ -3,10 +3,7 @@
 
 ## 🎧 Listen to My Introduction
 
-[▶️ Play My Audio Introduction](https://github.com/Ankitatan/Portfolio/blob/main/audio.m4a)
-
-🌐 [Visit My Portfolio](https://www.gaiverse.in) to listen to my introduction.
-
+[▶️ Play My Introduction on My Portfolio](https://www.gaiverse.in)
 
 <!-- Typing Animation -->
 <p align="center">
