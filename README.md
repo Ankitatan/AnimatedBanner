@@ -106,19 +106,6 @@
 
 ---
 
-<h2 align="center">🚀 Explore My Portfolio</h2>
-
-<p align="center">
-  <a href="https://www.gaiverse.in">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-6A11CB?style=for-the-badge&logo=github&logoColor=white" alt="Visit My Portfolio"/>
-  </a>
-</p>
-
-<p align="center">
-  <b>Data Science | AI/ML | Data Analytics | Generative AI</b>
-</p>
-
-
 ## 📌 Featured Projects
 
 ### ✈️ Airbnb Dynamic Pricing Recommendation Engine
@@ -171,6 +158,21 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
 </p>
+
+
+<h2 align="center">🚀 Explore My Portfolio</h2>
+
+<p align="center">
+  <a href="https://www.gaiverse.in">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-6A11CB?style=for-the-badge&logo=github&logoColor=white" alt="Visit My Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Data Science | AI/ML | Data Analytics | Generative AI</b>
+</p>
+
+
 
 <p align="center">
   <b>✨ Learning continuously. Building intelligently. Turning data into impact. ✨</b>
