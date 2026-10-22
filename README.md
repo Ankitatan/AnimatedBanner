@@ -2,9 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Ankita%20Taneja&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20AI%2FML%20%7C%20GenAI&descAlignY=55&descSize=18" width="100%" alt="Ankita Taneja header"/>
 
 <!-- Typing Animation -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B2FF7&center=true&vCenter=true&width=800&lines=Aspiring+Data+Scientist;AI%2FML+%7C+Generative+AI;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=00C9A7&center=true&vCenter=true&width=850&lines=Data+Analyst+%7C+Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Machine+Learning+%26+AI;Generative+AI+%7C+Streamlit;Turning+Data+into+Actionable+Insights" alt="Typing animation" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Ankita Taneja</h1>
 
