@@ -148,8 +148,11 @@
 
 <p align="center">
   <a href="https://ankitatan.github.io/contribution-calendar/">
-    💜 Open My Interactive Contribution Calendar →
-  </a>
+    <img
+      src="YOUR_IMAGE_URL"
+      alt="Open My Interactive Contribution Calendar"
+      width="250"
+    />  </a>
 </p>
 
 ## 🌐 Connect With Me
