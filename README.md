@@ -146,23 +146,28 @@
 
 ## 🐍 Contribution Activity
 
+
+## 🐍 Contribution Activity
+
 <p align="center">
   <img
     src="https://ghchart.rshah.org/6A11CB/Ankitatan"
-    alt="Ankita's GitHub contribution activity"
+    alt="GitHub contribution heatmap"
     width="100%"
   />
 </p>
 
 <p align="center">
-  <b>Less activity</b> ▫️ 🟪 🟪 🟪 🟪 <b>More activity</b>
-  <br/>
-  <sub>Each square represents a day of GitHub contributions.</sub>
+  <img
+    src="https://streak-stats.demolab.com?user=Ankitatan&theme=transparent&hide_border=true&ring=A855F7&fire=DB2777&currStreakLabel=7C3AED&sideLabels=7C3AED&currStreakNum=9333EA&sideNums=9333EA&dates=8B8B9A"
+    alt="GitHub contribution statistics"
+    width="80%"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ankitatan?tab=overview&from=2026-01-01&to=2026-12-31">
-    📅 View GitHub contribution history
+  <a href="https://github.com/Ankitatan">
+    View full contribution history →
   </a>
 </p>
 
