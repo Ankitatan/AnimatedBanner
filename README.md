@@ -144,16 +144,15 @@
 
 ---
 
-## 🐍 Contribution Activity
+## ✨ Contribution Activity
 
 <p align="center">
   <img
-    src="https://ghchart.rshah.org/6A11CB/Ankitatan"
-    alt="GitHub contribution heatmap"
+    src="./contribution-heatmap.svg"
+    alt="Animated glowing GitHub contribution heatmap"
     width="100%"
   />
 </p>
-
 
 
 
