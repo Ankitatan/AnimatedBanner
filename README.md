@@ -146,10 +146,10 @@
 
 ## ✨ Contribution Activity
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/8b5cf6/Ankitatan" alt="GitHub Contribution Chart" width="100%">
-</p>
-
+<a href="https://github.com/Ankitatan">
+  <img src="https://ghchart.rshah.org/8b5cf6/Ankitatan"
+       alt="GitHub Contribution Chart" width="100%">
+</a>
 
 ## 🌐 Connect With Me
 
