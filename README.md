@@ -3,11 +3,7 @@
 
 <!-- Typing Animation -->
 
-<div align="center" style="background-color:#0D1117; padding:20px;">
-  <img width="850" height="60" alt="marquee" src="https://github.com/user-attachments/assets/8bdeffc9-52a9-4fc4-8a17-74ca7b6fb82f" />
-</div>
-
-
+<img width="850" height="60" alt="marquee" src="https://github.com/user-attachments/assets/8bdeffc9-52a9-4fc4-8a17-74ca7b6fb82f" />
 
 <h1 align="center">Hi 👋, I'm Ankita Taneja</h1>
 
