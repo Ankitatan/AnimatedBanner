@@ -17,12 +17,18 @@
   <strong>Ankita Taneja | Data Analytics • AI/ML</strong>
 </p>
 
-<div align="center">
-  <video width="480" controls>
-    <source src="https://github.com/Ankitatan/Ankitatan/blob/main/audio-video%20(1).mp4" type="video/mp4">
-    Your browser does not support embedded video.
-  </video>
-</div>
+<p align="center">
+  <a href="https://github.com/Ankitatan/Ankitatan/blob/main/audio-video%20%281%29.mp4">
+    <img src="audio-intro-thumbnail.png"
+         alt="Listen to Ankita Taneja's audio introduction"
+         width="480">
+  </a>
+</p>
+
+<p align="center">
+  ▶️ Click the thumbnail to watch or listen to my introduction.
+</p>
+
 
 
 ## 👩‍💻 About Me
