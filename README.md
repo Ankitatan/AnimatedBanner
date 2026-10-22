@@ -14,12 +14,19 @@
 
 <div align="center">
   <video
-    src="https://github.com/user-attachments/assets/ea8f7e92-1dcd-4a42-b8d7-1533d4810ef6"
+    src="https://github.com/user-attachments/assets/7f44e760-be05-4ba0-8a9c-ad7ed336d2e9"
     width="350"
     height="450"
     controls>
   </video>
 </div>
+
+
+
+
+
+
+
 
 
 ## 👩‍💻 About Me
