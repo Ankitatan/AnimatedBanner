@@ -10,12 +10,6 @@
 
 <h3 align="center">Data Science | AI/ML | Data Analytics | Generative AI</h3>
 
-<p align="center">
-  <a href="https://github.com/Ankitatan">
-    <img src="https://komarev.com/ghpvc/?username=Ankitatan&label=Profile%20Views&color=2575FC&style=flat" alt="Profile views"/>
-  </a>
-</p>
-
 ---
 
 ## 👩‍💻 About Me
