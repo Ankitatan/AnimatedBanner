@@ -146,9 +146,6 @@
 
 ## 🐍 Contribution Activity
 
-
-## 🐍 Contribution Activity
-
 <p align="center">
   <img
     src="https://ghchart.rshah.org/6A11CB/Ankitatan"
@@ -157,19 +154,7 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Ankitatan&theme=transparent&hide_border=true&ring=A855F7&fire=DB2777&currStreakLabel=7C3AED&sideLabels=7C3AED&currStreakNum=9333EA&sideNums=9333EA&dates=8B8B9A"
-    alt="GitHub contribution statistics"
-    width="80%"
-  />
-</p>
 
-<p align="center">
-  <a href="https://github.com/Ankitatan">
-    View full contribution history →
-  </a>
-</p>
 
 
 ## 🌐 Connect With Me
