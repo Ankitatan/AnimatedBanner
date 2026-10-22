@@ -13,22 +13,14 @@
 
 <h3 align="center">🎧 Listen to My Introduction</h3>
 
-<p align="center">
-  <strong>Ankita Taneja | Data Analytics • AI/ML</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ankitatan/Ankitatan/blob/main/audio-video%20%281%29.mp4">
-    <img src="audio-intro-thumbnail.png"
-         alt="Listen to Ankita Taneja's audio introduction"
-         width="480">
-  </a>
-</p>
-
-<p align="center">
-  ▶️ Click the thumbnail to watch or listen to my introduction.
-</p>
-
+<div align="center">
+  <video
+    src="https://github.com/user-attachments/assets/a8f7e92-1dcd-4a42-b8d7-1533d4810ef6"
+    width="250"
+    height="350"
+    controls>
+  </video>
+</div>
 
 
 ## 👩‍💻 About Me
