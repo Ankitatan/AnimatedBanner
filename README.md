@@ -144,12 +144,13 @@
 
 ---
 
-## ✨ Contribution Activity
+## ✨ Interactive Contribution Activity
 
-<a href="https://github.com/Ankitatan">
-  <img src="https://ghchart.rshah.org/8b5cf6/Ankitatan"
-       alt="GitHub Contribution Chart" width="100%">
-</a>
+<p align="center">
+  <a href="https://ankitatan.github.io/contribution-calendar/">
+    💜 Open My Interactive Contribution Calendar →
+  </a>
+</p>
 
 ## 🌐 Connect With Me
 
