@@ -34,7 +34,7 @@
 
 
 ## 🛠️ Technical Skills
-
+<div align="center">
 | Property | Data |
 |---|---|
 | **Languages / IDEs** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
@@ -44,7 +44,7 @@
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
 | **Development / Apps** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 | **Generative AI** | ![LLMs](https://img.shields.io/badge/LLMs-6A11CB?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-2575FC?style=for-the-badge) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7B2FF7?style=for-the-badge) |
-
+</div>div>
 
 <h3 align="left">Languages and Tools:</h3>
 
