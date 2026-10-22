@@ -168,16 +168,22 @@
 ### ✈️ Airbnb Dynamic Pricing Recommendation Engine
 - Predicting Airbnb listing prices using machine learning.
 - Tools: Python, Pandas, Scikit-learn, Tableau, Streamlit.
-- [View Project](https://github.com/Ankitatan/ElevateLabsDAproject_AIR_BNB)
+- <a href="https://github.com/Ankitatan/ElevateLabsDAproject_AIR_BNB">
+  <img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+</a>
 
 ### 🌦️ SkyPredict AI
 - Streamlit application for predictive analytics.
 - Explore flight pricing and passenger satisfaction datasets.
-- [Explore My Repositories](https://github.com/Ankitatan?tab=repositories)
+- <a href="https://github.com/Ankitatan?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_Project-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white" alt="Explore Project" />
+</a>
 
 ### 📊 Data Analytics Portfolio
 - Practical projects in SQL, Excel, Python, and Power BI.
-- [View All Repositories](https://github.com/Ankitatan?tab=repositories)
+- <a href="https://github.com/Ankitatan?tab=repositories">
+  <img src="https://img.shields.io/badge/View_All_Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
+</a>
 
 ---
 
