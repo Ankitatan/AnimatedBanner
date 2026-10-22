@@ -4,12 +4,7 @@
 <!-- Typing Animation -->
 
 <div align="center" style="background-color:#0D1117; padding:20px;">
-
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=00C9A7&center=true&vCenter=true&width=850&lines=Data+Analyst+%7C+Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Machine+Learning+%26+AI;Generative+AI+%7C+Streamlit;Turning+Data+into+Actionable+Insights"
-    alt="Typing animation"
-  />
-
+  <img width="850" height="60" alt="marquee" src="https://github.com/user-attachments/assets/8bdeffc9-52a9-4fc4-8a17-74ca7b6fb82f" />
 </div>
 
 
