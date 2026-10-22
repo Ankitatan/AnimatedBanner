@@ -3,7 +3,7 @@
 
 <!-- Typing Animation -->
 
-<img width="850" height="60" alt="marquee" src="https://github.com/user-attachments/assets/37d5fc44-cdee-4cf4-991b-43122269e892" />
+<img width="1020" height="40" alt="marquee" src="https://github.com/user-attachments/assets/2118cc7a-bf43-4c48-80ed-c3818039abd5" />
 
 <h1 align="center">Hi 👋, I'm Ankita Taneja</h1>
 
