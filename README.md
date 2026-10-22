@@ -34,42 +34,64 @@
 
 
 ## 🛠️ Technical Skills
-<h2 align="center">🛠️ Technical Skills</h2>
-
 <table align="center">
   <tr>
-    <th>Category</th>
-    <th>Skills</th>
+    <th align="center">Property</th>
+    <th align="center">Data</th>
   </tr>
   <tr>
-    <td align="center"><b>Languages</b></td>
+    <td align="center"><b>Languages / IDEs</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Data Analysis</b></td>
+    <td align="center"><b>Data Analytics</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Machine Learning</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Visualization</b></td>
+    <td align="center"><b>Deep Learning / AI</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Tools</b></td>
+    <td align="center"><b>Databases</b></td>
     <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Development / Apps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Generative AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LLMs-6A11CB?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/RAG-2575FC?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Prompt_Engineering-7B2FF7?style=for-the-badge" />
     </td>
   </tr>
 </table>
