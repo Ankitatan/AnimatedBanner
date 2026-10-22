@@ -7,8 +7,8 @@
 <div align="center">
   <video
     src="https://github.com/user-attachments/assets/ea8f7e92-1dcd-4a42-b8d7-1533d4810ef6"
-    width="350"
-    height="450"
+    width="250"
+    height="350"
     controls>
   </video>
 </div>
