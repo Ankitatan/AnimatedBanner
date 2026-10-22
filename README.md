@@ -176,13 +176,13 @@
 - Streamlit application for predictive analytics.
 - Explore flight pricing and passenger satisfaction datasets.
 - <a href="https://github.com/Ankitatan/Flights">
-  <img src="https://img.shields.io/badge/Explore_Project-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white" alt="View Project" />
+  <img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
 </a>
 
 ### 📊 Data Analytics Portfolio
 - Practical projects in SQL, Excel, Python, and Power BI.
 - <a href="https://github.com/Ankitatan/Portfolio">
-  <img src="https://img.shields.io/badge/View_All_Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+  <img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
 </a>
 
 ---
