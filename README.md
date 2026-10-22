@@ -148,12 +148,19 @@
 
 <p align="center">
   <img
-    src="./contribution-heatmap.svg"
-    alt="Animated glowing GitHub contribution heatmap"
+    src="https://raw.githubusercontent.com/Ankitatan/Ankitatan/output/contribution-heatmap.svg"
+    alt="Animated purple GitHub contribution heatmap"
     width="100%"
   />
 </p>
 
+<p align="center">
+  <sub>Daily contributions · Purple activity intensity · Updated automatically</sub>
+  <br/>
+  <a href="https://github.com/Ankitatan">
+    View full contribution history →
+  </a>
+</p>
 
 
 ## 🌐 Connect With Me
