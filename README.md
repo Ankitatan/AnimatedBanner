@@ -3,7 +3,7 @@
 
 ## 🎧 Listen to My Introduction
 
-[▶️ Play My Audio Introduction](https://github.com/Ankitatan/Ankitatan)
+[▶️ Play My Audio Introduction](https://github.com/Ankitatan/Portfolio)
 
 <!-- Typing Animation -->
 <p align="center">
