@@ -22,13 +22,6 @@
 </div>
 
 
-
-
-
-
-
-
-
 ## 👩‍💻 About Me
 
 - 🎓 Pursuing an M.Sc. in Data Science.
@@ -38,8 +31,6 @@
 - 🤖 Exploring Generative AI, LLMs, and RAG applications.
 - 🚀 Developing practical projects to solve real-world problems.
 - 📫 Explore my repositories and connect with me!
-
-
 
 
 ## 🛠️ Technical Skills
