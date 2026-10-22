@@ -149,9 +149,21 @@
 <p align="center">
   <img
     src="https://ghchart.rshah.org/6A11CB/Ankitatan"
-    alt="Ankita's GitHub contribution graph"
+    alt="Ankita's GitHub contribution activity"
     width="100%"
   />
+</p>
+
+<p align="center">
+  <b>Less activity</b> ▫️ 🟪 🟪 🟪 🟪 <b>More activity</b>
+  <br/>
+  <sub>Each square represents a day of GitHub contributions.</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ankitatan?tab=overview&from=2026-01-01&to=2026-12-31">
+    📅 View GitHub contribution history
+  </a>
 </p>
 
 
