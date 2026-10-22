@@ -1,16 +1,9 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Ankita%20Taneja&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20AI%2FML%20%7C%20GenAI&descAlignY=55&descSize=18" width="100%" alt="Ankita Taneja header"/>
 
-<audio autoplay playsinline>
-  <source src="introduction.mp3" type="audio/mpeg">
-</audio>
+## 🎧 Listen to My Introduction
 
-<script>
-  const audio = document.querySelector("audio");
-  audio.play().catch(() => {
-    console.log("Autoplay blocked by browser.");
-  });
-</script>
+[▶️ Play My Audio Introduction](YOUR_AUDIO_FILE_URL)
 
 <!-- Typing Animation -->
 <p align="center">
