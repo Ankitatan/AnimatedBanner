@@ -3,7 +3,7 @@
 
 ## 🎧 Listen to My Introduction
 
-[▶️ Listen to My Audio Introduction on SoundCloud](https://soundcloud.com/ankita-taneja-232634176/audio)
+[▶️ Play My Introduction](https://www.gaiverse.in)
 
 <!-- Typing Animation -->
 <p align="center">
