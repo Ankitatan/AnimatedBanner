@@ -8,9 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm Ankita Taneja</h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00C9A7&center=true&vCenter=true&width=850&lines=Data+Analytics;Data+Science;Machine+Learning+%26+AI;Generative+AI" alt="Typing SVG" />
-</h3>
+<h3 align="center">Data Science | AI/ML | Data Analytics | Generative AI</h3>
 
 
 <h3 align="center">🎧 Listen to My Introduction</h3>
