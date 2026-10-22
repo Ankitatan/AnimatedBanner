@@ -149,7 +149,7 @@
 <p align="center">
   <a href="https://ankitatan.github.io/contribution-calendar/">
     <img
-      src="YOUR_IMAGE_URL"
+      src="https://img.shields.io/badge/💜_Open_Contribution_Calendar-7c3aed?style=for-the-badge"
       alt="Open My Interactive Contribution Calendar"
       width="250"
     />  </a>
