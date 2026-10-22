@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Ankita%20Taneja&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20AI%2FML%20%7C%20GenAI&descAlignY=55&descSize=18" width="100%" alt="Ankita Taneja header"/>
 
 
-https://github.com/user-attachments/assets/fe2b4772-62bc-4f69-b502-693abd1f119e
+https://github.com/user-attachments/assets/ea8f7e92-1dcd-4a42-b8d7-1533d4810ef6
 
 
 <!-- Typing Animation -->
