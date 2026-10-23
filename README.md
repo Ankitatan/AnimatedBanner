@@ -299,40 +299,6 @@
 
 
 
-
-<section id="github-activity" class="github-activity">
-  <div class="activity-container">
-    <p class="activity-label">OPEN SOURCE</p>
-    <h2>GitHub Activity</h2>
-    <p class="activity-description">
-      Building, learning, and contributing one commit at a time.
-    </p>
-
-    <a
-      href="https://github.com/Ankitatan"
-      target="_blank"
-      rel="noopener noreferrer"
-      class="activity-chart-link"
-    >
-      <img
-        src="https://ghchart.rshah.org/8b5cf6/Ankitatan"
-        alt="GitHub contribution activity for Ankitatan"
-        class="activity-chart"
-      />
-    </a>
-
-    <a
-      href="https://ankitatan.github.io/contribution-calendar/"
-      target="_blank"
-      rel="noopener noreferrer"
-      class="activity-button"
-    >
-      Explore Full Contribution Calendar ↗
-    </a>
-  </div>
-</section>
-
-
 <p align="center">
   <a href="https://ankitatan.github.io/contribution-calendar/">
     <img
