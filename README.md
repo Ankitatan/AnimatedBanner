@@ -165,7 +165,12 @@
 
 ## 📌 Featured Projects
 
-### ✈️ Airbnb Dynamic Pricing Recommendation Engine
+
+<h1 align="center">
+  <div style="background-color: #0B1F3A; color: white; padding: 35px 20px; border-radius: 12px; width: 100%;">
+    ✈️ Airbnb Dynamic Pricing Recommendation Engine
+  </div>
+</h1>
 
 A machine learning web application that predicts Airbnb listing prices based on property features.
 
@@ -194,14 +199,23 @@ A machine learning web application that predicts Airbnb listing prices based on 
   <img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
 </a>
 
-### 🌦️ SkyPredict AI
+<h1 align="center">
+  <div style="background-color: #0B1F3A; color: white; padding: 35px 20px; border-radius: 12px; width: 100%;">
+    🌦️ SkyPredict AI
+  </div>
+</h1>
+
 - Streamlit application for predictive analytics.
 - Explore flight pricing and passenger satisfaction datasets.
 - <a href="https://github.com/Ankitatan/Flights">
   <img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
 </a>
 
-### 📊 Data Analytics Portfolio
+<h1 align="center">
+  <div style="background-color: #0B1F3A; color: white; padding: 35px 20px; border-radius: 12px; width: 100%;">
+    📊 Data Analytics Portfolio
+  </div>
+</h1> 
 - Practical projects in SQL, Excel, Python, and Power BI.
 - <a href="https://github.com/Ankitatan/Portfolio">
   <img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
