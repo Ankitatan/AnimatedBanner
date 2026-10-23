@@ -171,7 +171,11 @@ A machine learning web application that predicts Airbnb listing prices based on 
 
 ## 🚀 Live Demo
 
-**[Click here to try the live app](https://elevatelabsdaprojectairbnb-bjozuqc5etegss9wuccw9a.streamlit.app/)**
+<p align="center">
+  <a href="https://elevatelabsdaprojectairbnb-bjozuqc5etegss9wuccw9a.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Try_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo">
+  </a>
+</p>
 
 ## 🛠️ Technologies Used
 - Python
@@ -186,9 +190,6 @@ A machine learning web application that predicts Airbnb listing prices based on 
 - Machine learning-based predictions
 - Web deployment using Streamlit Community Cloud
 
-
-Predicting Airbnb listing prices using machine learning.
-- Tools: Python, Pandas, Scikit-learn, Tableau, Streamlit.
 - <a href="https://github.com/Ankitatan/ElevateLabsDAproject_AIR_BNB">
   <img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
 </a>
