@@ -235,7 +235,7 @@
 </p>
 
 <p align="center">
-  Explore my portfolio showcasing data analytics, machine learning projects, Python, and interactive dashboards..
+  Explore my portfolio showcasing data analytics, machine learning projects, Python, and interactive dashboards.
 </p>
 
 <p align="center">
@@ -251,7 +251,7 @@
   </a>
   </br>
   <a href="https://www.gaiverse.in">
-    <img src="https://img.shields.io/badge/📂_VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio" />
+    <img src="https://img.shields.io/badge/📂_VIEW_WEBSITE-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View WEBSITE" />
   </a>
 </p>
 
