@@ -204,10 +204,6 @@
   Flight Price Prediction and Customer Satisfaction.
 </p>
 
-
-https://github.com/user-attachments/assets/6f180c1d-0fa2-410c-ac8d-f4f10bacc629
-
-
 <p align="center">
   <a href="https://github.com/Ankitatan/Flights">
     <img src="https://img.shields.io/badge/📂_VIEW_PROJECT-GitHub-181717?style=for-the-badge&logo=github" alt="View Project" />
