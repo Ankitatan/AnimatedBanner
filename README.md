@@ -165,6 +165,33 @@
 
 ## 📌 Featured Projects
 
+<h2 align="center">✈️ Airbnb Dynamic Pricing Recommendation Engine</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-Dynamic%20Pricing-0B1F3A?style=for-the-badge" alt="Machine Learning Dynamic Pricing" />
+</p>
+
+<p align="center">
+  Predict Airbnb listing prices using machine learning and an interactive Streamlit application.
+</p>
+
+<p align="center">
+  <a href="https://elevatelabsdaprojectairbnb-bjozuqc5etegss9wuccw9a.streamlit.app/">
+    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-Open_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
+
+
+
+-------
+
 
 <h1 align="center">
   <div style="background-color: #0B1F3A; color: white; padding: 35px 20px; border-radius: 12px; width: 100%;">
