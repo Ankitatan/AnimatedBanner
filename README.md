@@ -1,7 +1,3 @@
-
-
-
-
 /* GitHub Activity Section */
 .github-activity {
   padding: 80px 6%;
@@ -361,7 +357,30 @@
 
 ## ✨ Interactive Contribution Activity
 
-<!-- GitHub Contribution Activity -->
+<p align="center">
+  <a href="https://ankitatan.github.io/contribution-calendar/">
+    <img
+      src="https://ghchart.rshah.org/8b5cf6/Ankitatan"
+      alt="Ankita Taneja's GitHub Contribution Activity"
+      width="100%"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://ankitatan.github.io/contribution-calendar/">
+    <img
+      src="https://img.shields.io/badge/View-Full_Contribution_Calendar-8b5cf6?style=for-the-badge"
+      alt="View Full Contribution Calendar"
+    />
+  </a>
+</p>
+
+
+
+
+
+
 <section id="github-activity" class="github-activity">
   <div class="activity-container">
     <p class="activity-label">OPEN SOURCE</p>
