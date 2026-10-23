@@ -166,7 +166,28 @@
 ## 📌 Featured Projects
 
 ### ✈️ Airbnb Dynamic Pricing Recommendation Engine
-- Predicting Airbnb listing prices using machine learning.
+
+A machine learning web application that predicts Airbnb listing prices based on property features.
+
+## 🚀 Live Demo
+
+**[Click here to try the live app](https://elevatelabsdaprojectairbnb-bjozuqc5etegss9wuccw9a.streamlit.app/)**
+
+## 🛠️ Technologies Used
+- Python
+- Pandas and NumPy
+- Scikit-learn
+- Streamlit
+- Matplotlib and Seaborn
+
+## ✨ Features
+- Predict Airbnb listing prices
+- Interactive user interface
+- Machine learning-based predictions
+- Web deployment using Streamlit Community Cloud
+
+
+Predicting Airbnb listing prices using machine learning.
 - Tools: Python, Pandas, Scikit-learn, Tableau, Streamlit.
 - <a href="https://github.com/Ankitatan/ElevateLabsDAproject_AIR_BNB">
   <img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
