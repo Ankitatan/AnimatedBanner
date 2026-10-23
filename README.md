@@ -15,9 +15,7 @@
 <h3 align="center">Data Science | AI/ML | Data Analytics | Generative AI</h3>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Ankitatan/count.svg" alt="Profile Visitors" />
-  <br />
-  <i>Thanks for visiting my profile!</i>
+  <img src="https://count.getloli.com/@Ankitatan?name=Ankitatan&theme=booru-lewd&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Visitor Count" />
 </p>
 
 <h3 align="center">🎧 Listen to My Introduction</h3>
