@@ -181,8 +181,8 @@
 </p>
 
 <p align="center">
-  <a href="https://elevatelabsdaprojectairbnb-bjozuqc5etegss9wuccw9a.streamlit.app/">
-    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-Open_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
+  <a href="https://github.com/Ankitatan/ElevateLabsDAproject_AIR_BNB">
+    <img src="https://img.shields.io/badge/📂_VIEW_PROJECT-GitHub-181717?style=for-the-badge&logo=github" alt="View Project" />
   </a>
 </p>
 
