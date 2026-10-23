@@ -16,7 +16,7 @@
 
 <p align="center">
   <img
-    src="https://portfoliocounters.venusgirlatwork.workers.dev/" height="28"
+    src="https://portfoliocounters.venusgirlatwork.workers.dev/" height="35"
     alt="Profile Views"
   />
 </p>
