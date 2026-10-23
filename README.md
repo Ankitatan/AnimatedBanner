@@ -16,7 +16,7 @@
 
 <p align="center">
   <img
-    src="![Portfolio Visitors](https://portfolio-counter.venusgirlatwork.workers.dev/)"
+    src="https://portfolio-counter.venusgirlatwork.workers.dev/"
     alt="Profile Views"
   />
 </p>
