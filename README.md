@@ -228,19 +228,14 @@
 </p>
 
 
-- <a href="https://github.com/Ankitatan/ElevateLabsDAproject_AIR_BNB">
-  <img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-</a>
-
-
-<h2 align="center">📊 Data Analytics Portfolio</h2>
+<h2 align="center">📊 My Portfolio</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/DATA%20ANALYTICS-SQL%20%7C%20EXCEL%20%7C%20PYTHON%20%7C%20POWER%20BI-0B1F3A?style=for-the-badge" alt="Data Analytics Portfolio" />
 </p>
 
 <p align="center">
-  Practical data analytics projects using SQL, Excel, Python, and Power BI to transform raw data into meaningful insights.
+  Explore my portfolio showcasing data analytics, machine learning projects, Python, and interactive dashboards..
 </p>
 
 <p align="center">
@@ -252,6 +247,10 @@
 
 <p align="center">
   <a href="https://github.com/Ankitatan/Portfolio">
+    <img src="https://img.shields.io/badge/📂_VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio" />
+  </a>
+  </br>
+  <a href="https://www.gaiverse.in">
     <img src="https://img.shields.io/badge/📂_VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio" />
   </a>
 </p>
