@@ -189,64 +189,69 @@
 </p>
 
 
-
--------
-
-
-<h1 align="center">
-  <div style="background-color: #0B1F3A; color: white; padding: 35px 20px; border-radius: 12px; width: 100%;">
-    ✈️ Airbnb Dynamic Pricing Recommendation Engine
-  </div>
-</h1>
-
-A machine learning web application that predicts Airbnb listing prices based on property features.
-
-## 🚀 Live Demo
+<h2 align="center">🌦️ SkyPredict AI</h2>
 
 <p align="center">
-  <a href="https://elevatelabsdaprojectairbnb-bjozuqc5etegss9wuccw9a.streamlit.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Live_Demo-Try_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo">
+  <img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-Weather%20Prediction-0B1F3A?style=for-the-badge" alt="AI Weather Prediction" />
+</p>
+
+<p align="center">
+  An AI-powered project focused on weather prediction and data-driven insights.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ankitatan/SkyPredict-AI">
+    <img src="https://img.shields.io/badge/📂_VIEW_PROJECT-GitHub-181717?style=for-the-badge&logo=github" alt="View Project" />
   </a>
 </p>
 
-## 🛠️ Technologies Used
-- Python
-- Pandas and NumPy
-- Scikit-learn
-- Streamlit
-- Matplotlib and Seaborn
 
-## ✨ Features
-- Predict Airbnb listing prices
-- Interactive user interface
-- Machine learning-based predictions
-- Web deployment using Streamlit Community Cloud
+<h2 align="center">💰 Personal Expense Analytics</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DATA%20ANALYTICS-Expense%20Insights-0B1F3A?style=for-the-badge" alt="Expense Analytics" />
+</p>
+
+<p align="center">
+  Analyze spending patterns and identify useful insights from personal expense data.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ankitatan/Personal-Expense-Analytics">
+    <img src="https://img.shields.io/badge/📂_VIEW_PROJECT-GitHub-181717?style=for-the-badge&logo=github" alt="View Project" />
+  </a>
+</p>
+
 
 - <a href="https://github.com/Ankitatan/ElevateLabsDAproject_AIR_BNB">
   <img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
 </a>
 
-<h1 align="center">
-  <div style="background-color: #0B1F3A; color: white; padding: 35px 20px; border-radius: 12px; width: 100%;">
-    🌦️ SkyPredict AI
-  </div>
-</h1>
 
-- Streamlit application for predictive analytics.
-- Explore flight pricing and passenger satisfaction datasets.
-- <a href="https://github.com/Ankitatan/Flights">
-  <img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-</a>
+<h2 align="center">📊 Data Analytics Portfolio</h2>
 
-<h1 align="center">
-  <div style="background-color: #0B1F3A; color: white; padding: 35px 20px; border-radius: 12px; width: 100%;">
-    📊 Data Analytics Portfolio
-  </div>
-</h1> 
-- Practical projects in SQL, Excel, Python, and Power BI.
-- <a href="https://github.com/Ankitatan/Portfolio">
-  <img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/DATA%20ANALYTICS-SQL%20%7C%20EXCEL%20%7C%20PYTHON%20%7C%20POWER%20BI-0B1F3A?style=for-the-badge" alt="Data Analytics Portfolio" />
+</p>
+
+<p align="center">
+  Practical data analytics projects using SQL, Excel, Python, and Power BI to transform raw data into meaningful insights.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ankitatan/Portfolio">
+    <img src="https://img.shields.io/badge/📂_VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio" />
+  </a>
+</p>
+
+
 
 ---
 
