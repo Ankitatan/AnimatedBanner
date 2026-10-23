@@ -15,7 +15,10 @@
 <h3 align="center">Data Science | AI/ML | Data Analytics | Generative AI</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ankitatan&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=Ankitatan&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+    alt="Profile Views"
+  />
 </p>
 
 <h3 align="center">🎧 Listen to My Introduction</h3>
