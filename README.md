@@ -16,7 +16,7 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=Ankitatan&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+    src="https://portfolio-counter.YOUR-SUBDOMAIN.workers.dev/"
     alt="Profile Views"
   />
 </p>
