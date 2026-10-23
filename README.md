@@ -14,6 +14,11 @@
 
 <h3 align="center">Data Science | AI/ML | Data Analytics | Generative AI</h3>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Ankitatan/count.svg" alt="Profile Visitors" />
+  <br />
+  <i>Thanks for visiting my profile!</i>
+</p>
 
 <h3 align="center">🎧 Listen to My Introduction</h3>
 
