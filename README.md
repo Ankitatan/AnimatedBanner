@@ -194,15 +194,19 @@
 </p>
 
 
-<h2 align="center">🌦️ SkyPredict AI</h2>
+<h2 align="center">🌦️ SkyPredict AI </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-Weather%20Prediction-0B1F3A?style=for-the-badge" alt="AI Weather Prediction" />
+  <img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-Weather%20Prediction-0B1F3A?style=for-the-badge" alt="Prediction" />
 </p>
 
 <p align="center">
-  An AI-powered project focused on weather prediction and data-driven insights.
+  Flight Price Prediction and Customer Satisfaction.
 </p>
+
+
+https://github.com/user-attachments/assets/6f180c1d-0fa2-410c-ac8d-f4f10bacc629
+
 
 <p align="center">
   <a href="https://github.com/Ankitatan/Flights">
