@@ -222,7 +222,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ankitatan/Personal-Expense">
+  <a href="https://github.com/Ankitatan/Personal-Expenses">
     <img src="https://img.shields.io/badge/📂_VIEW_PROJECT-GitHub-181717?style=for-the-badge&logo=github" alt="View Project" />
   </a>
 </p>
